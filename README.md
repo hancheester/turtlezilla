@@ -10,7 +10,7 @@ Once this plugin is installed and configured, you will have a new button in Tort
 
 ## Quick Start
 ##### Installing TurtleZilla
-* Please download the installer from [dist](../blog/master/dist) folder.
+* Please download the installer from [dist](../blob/master/dist) folder.
 * If you prefer to build from source yourself see the [Working With The Source Code section](#working-with-source-code) below
 
 ## Work With The Source Code
