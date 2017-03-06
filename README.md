@@ -12,7 +12,7 @@ Once this plugin is installed and configured, you will have a new button in Tort
 ## Quick Start
 ##### Installing TurtleZilla
 * Please download the installer from [dist](./dist) folder.
-* If you prefer to build from source yourself see the [Working With The Source Code section](#working-with-source-code) below
+* If you prefer to build from source yourself see the [Working With The Source Code section](#work-with-the-source-code) below
 
 ##### Configuring TurtleZilla
 1. Browse to your folder that contains *repository* which you wish to hook up your Bugzilla issues list.
